@@ -4,7 +4,7 @@ margin-left: 200px;
 margin-right: 200px;
 padding: 10px 150px 10px 150px;
 border-radius: 15px;
-background-color: ##228B22;
+background-color: #228b22;
 text-align: left;
 }
 characteristics {
@@ -16,7 +16,7 @@ experience {
 
 h1 {
 font-size: 72px;
-  margin-bottom: -25px;
+margin-bottom: -25px;
 }
 
 h2 {  
@@ -36,8 +36,10 @@ margin-bottom: -10px
 
 p {
 font-size: 25px; 
+
 }
 
 li {
-font-size: 35px;  
+font-size: 35px; 
+text-align: center;
 }
