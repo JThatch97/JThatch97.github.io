@@ -6,12 +6,15 @@ padding: 10px 150px 10px 150px;
 border-radius: 15px;
 background-color: #228b22;
 text-align: left;
+border: dashed;
 }
 characteristics {
-
+border: solid;
+border-color: #ff0000;
 } 
 experience {
-
+border: solid;
+border-color: #0000ff;
 }
 
 h1 {
