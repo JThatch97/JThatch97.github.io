@@ -29,5 +29,6 @@ p {
 border: solid;  
 }
 header {
-border: solid; 
+border: solid;
+margin: auto;
 }
