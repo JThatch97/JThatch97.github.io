@@ -1,7 +1,12 @@
-body {
+container {
+margin-top: 20px;  
+margin-left: 200px;
+margin-right:200px;
+text-align: left;
 background-color: #808080;
-margin: 10px;
-border: solid;
+}
+body {
+
 } 
 header {
 background-color:#000000;
