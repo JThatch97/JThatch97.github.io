@@ -1,9 +1,9 @@
 container {
 margin-top: 20px;  
-margin-left: 200px;
-margin-right:200px;
+margin-left: 250px;
+margin-right:250px;
 text-align: left;
-background-color: #808080;
+background-color: #228B22;
 padding: 25px;
 }
 body {
@@ -16,7 +16,7 @@ margin: 10px;
 }
 
 title {
-background-color: ##228B22;
+background-color: #228B22;
 color: #ffffff;
 margin: 10px;  
 }
