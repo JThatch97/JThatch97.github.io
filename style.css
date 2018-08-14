@@ -7,6 +7,9 @@ padding: 25px;
 h2 {
 font-family: sans-serif;  
 font-size: 25px;
-border: 2px;
 padding: 25px;  
+}
+
+header {
+border: 2px; 
 }
