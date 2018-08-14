@@ -11,6 +11,7 @@ border: dashed;
 characteristics {
 border: solid;
 border-color: #ff0000;
+text-align: center;
 } 
 experience {
 border: solid;
@@ -20,11 +21,13 @@ border-color: #0000ff;
 h1 {
 font-size: 72px;
 margin-bottom: -35px;
+text-align: center;
 }
 
 h2 {  
 font-size: 42px;
-margin-bottom: -10px
+margin-bottom: -10px;
+text-align: center;
 }
 
 h3 {
@@ -34,7 +37,7 @@ margin-bottom: -30px;
 
 h4 {
 font-size: 45px;
-margin-bottom: -30px
+margin-bottom: -20px;
 }
 
 p {
