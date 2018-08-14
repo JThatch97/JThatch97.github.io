@@ -4,46 +4,34 @@ margin-left: 200px;
 margin-right: 200px;
 padding: 10px 150px 10px 150px;
 border-radius: 15px;
-background-color: #C4CECD;
+background-color: ##228B22;
 text-align: left;
 }
-body {
+characteristics {
 
 } 
-header {
-background-color:#000000;
-color: #ffffff;
+experience {
+
 }
 
-title {
-background-color: #228B22;
-color: #ffffff;
-margin: 10px;  
-}
 h1 {
-font-family: 'Lato', sans-serif;  
-font-size: 55px;
-padding: 2px;
-margin-bottom: 1px;
+font-size: 72px;
+  margin-bottom: -25px;
 }
 
-h2 {
-font-family: sans-serif;  
-font-size: 15px; 
+h2 {  
+font-size: 25px;
+margin-bottom: -10px
 }
 
 h3 {
-font-family: 'Lato', sans-serif;
 font-size: 35px;
-padding: 2px;
-margin-bottom: 1px;
+margin-bottom: -10px;
 }
 
 h4 {
 font-family: 'Lato', sans-serif;
-font-size: 45px;
-padding: 2px;
-margin-bottom: 1px;
+margin-bottom: -10px
 }
 
 p {
@@ -52,7 +40,4 @@ font-size: 15px;
 
 li {
 font-size: 15px;  
-}
-header {
-padding: 5px;
 }
